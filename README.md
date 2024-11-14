@@ -1,2 +1,0 @@
-# Batol
-this project
