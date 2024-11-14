@@ -11,7 +11,7 @@ import App from "./App.vue";
 import PrimeVue from "primevue/config";
 import Aura from "@primevue/themes/aura";
 
-// bootstrap
+// bootstrap 5
 import "@popperjs/core";
 import "bootstrap/dist/css/bootstrap.css";
 import "bootstrap-vue/dist/bootstrap-vue.css";
